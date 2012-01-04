@@ -1,0 +1,8 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+		"Git"
+	],
+    "theme": "Soda Dark.sublime-theme"
+}

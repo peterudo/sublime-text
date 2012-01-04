@@ -1,0 +1,14 @@
+[
+    { "keys": ["alt+super+up"], "command": "run_macro_file", "args": {"file": "Packages/User/duplicate_line_above.sublime-macro"} },
+	{ "keys": ["alt+super+down"], "command": "duplicate_line" },
+
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+
+    { "keys": ["shift+super+c"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["super+alt+forward_slash"], "command": "toggle_comment", "args": { "block": true } },
+
+    { "keys": ["shift+super+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+
+    { "keys": ["super+k", "shift+space"], "command": "set_mark" }
+]

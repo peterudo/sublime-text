@@ -1,0 +1,10 @@
+[
+	{
+		"args": null,
+		"command": "duplicate_line"
+	},
+	{
+		"args": null,
+		"command": "swap_line_up"
+	}
+]

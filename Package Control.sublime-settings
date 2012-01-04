@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1325579775,
+	"installed_packages":
+	[
+		"Git",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"WordHighlight"
+	]
+}
