@@ -1,0 +1,14 @@
+{
+	"font_face": "Menlo Regular",
+	"font_size": 12,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+		"Git"
+	],
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tabs_stops": true
+}

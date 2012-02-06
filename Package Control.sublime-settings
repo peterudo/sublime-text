@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1325579775,
+	"auto_upgrade_last_run": 1328257657,
 	"installed_packages":
 	[
 		"Git",
 		"Package Control",
+		"PhpDoc",
 		"SublimeCodeIntel",
 		"Terminal",
 		"Theme - Soda",

@@ -1,4 +1,6 @@
 [
+    { "keys": ["super+quote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
     { "keys": ["alt+super+up"], "command": "run_macro_file", "args": {"file": "Packages/User/duplicate_line_above.sublime-macro"} },
 	{ "keys": ["alt+super+down"], "command": "duplicate_line" },
 
