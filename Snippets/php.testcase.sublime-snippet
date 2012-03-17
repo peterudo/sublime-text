@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+class ${1:ClassName}Test extends PHPUnit_Framework_TestCase {
+
+    public function setUp() {
+
+    }
+
+    public function tearDown() {
+
+    }
+
+}
+]]></content>
+    <tabTrigger>testcase</tabTrigger>
+    <description>PHPUnit testcase</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>

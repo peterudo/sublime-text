@@ -1,14 +1,17 @@
 {
-	"font_face": "Menlo Regular",
-	"font_size": 12,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 14.0,
 	"ignored_packages":
 	[
 		"Vintage",
-		"Git"
+		"Git",
+		"Phpcs"
 	],
+	"sublimelinter_delay": 2,
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"use_tabs_stops": true
+	"use_tabs_stops": true,
+	"jsdocs_align_tags": "no"
 }

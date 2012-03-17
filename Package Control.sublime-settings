@@ -1,14 +1,18 @@
 {
-	"auto_upgrade_last_run": 1328257657,
+	"auto_upgrade_last_run": 1331934084,
 	"installed_packages":
 	[
+		"DocBlockr",
 		"Git",
+		"Inc-Dec-Value",
 		"Package Control",
+		"Phpcs",
 		"PhpDoc",
+		"Phpmd",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Terminal",
 		"Theme - Soda",
-		"TrailingSpaces",
-		"WordHighlight"
+		"TrailingSpaces"
 	]
 }

@@ -1,4 +1,5 @@
-import sublime, sublime_plugin
+import sublime_plugin
+
 
 class ClearTrailingSpacesOnSave(sublime_plugin.EventListener):
 
